@@ -1,6 +1,6 @@
 # HMMS_WO_WS
 This project provided the web service for WOS.  
-[Online](https://drive.google.com/file/d/1jj5ElhjIJ6LJ-tkcUv3nSjLIj8OHoB2G/view?usp=sharing)
+[Online](https://github.com/ennish/WOS)
 ## To build the project
 
 ``` 
