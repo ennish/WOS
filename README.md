@@ -16,11 +16,11 @@ and package again.
 ## To fix sql of web service
 1. **Find the mapper**
      
-    ![Controller layer](https://drive.google.com/file/d/1QFrhxPViSp6pPh8gNXsQRQ2EegrTmXvU/view?usp=sharing)
+    ![Controller layer](https://github.com/ennish/WOS/blob/main/controller.png?raw=true)
      
-    ![Service layer](https://drive.google.com/file/d/12-_elS5lGC8sBGO-Ccy_G50LT28CHv2p/view?usp=sharing)
+    ![Service layer](https://github.com/ennish/WOS/blob/main/service.png?raw=true)
     
-    ![DAO layer](https://drive.google.com/file/d/1nEZuBzaUCmVSsZ1E_1oiQZ3wx9mzMw4Z/view?usp=sharing)
+    ![DAO layer](https://github.com/ennish/WOS/blob/main/mapper.png?raw=true)
      
 2. **Replace sql statement**  
     Please not to change alias of existing columns, cause it's used by `ResultMap`.  
